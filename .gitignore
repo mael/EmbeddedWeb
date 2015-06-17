@@ -30,3 +30,6 @@ proguard/
 \.metadata/
 Servers/
 target/
+
+# OSX
+.DS_Store
